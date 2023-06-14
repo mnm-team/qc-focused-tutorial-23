@@ -1,0 +1,3 @@
+!pip install pennylane
+!pip install matplotlib
+!pip install scikit-learn
